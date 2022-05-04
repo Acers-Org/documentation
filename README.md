@@ -11,10 +11,14 @@ The project specification for projects by Acers is provided here:
 - DigiPhront dashboards links on Figma is [https://www.figma.com/file/mFA3flH49A0BAG25KYWneD/DigiPhront-Mockups?node-id=492%3A432](https://www.figma.com/file/mFA3flH49A0BAG25KYWneD/DigiPhront-Mockups?node-id=492%3A432)
 
 ### Login Details
-- Login details to student dashboard -
+- Login details to teacher dashboard -
 teacher: "email": "testteacher@gmail.com",
     "password": "test.teacher"
     
 - Login Details to student Dashboard
 student: "email": "teststudent@gmail.com",
     "password": "test.student"
+
+- Login Details to admin Dashboard
+admin: "email": "sadmin@gmail.com",
+    "password": "Super.admin"
